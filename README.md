@@ -1,4 +1,4 @@
-###백준 기록 2022.03.07 ~
+## 백준 기록 2022.03.07 ~
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=changhak0310)](https://github.com/anuraghazra/github-readme-stats)
 
